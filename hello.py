@@ -1,1 +1,10 @@
-print("Hello there!")
+print("Below listed are 6th semester courses")
+
+print("DevOps Practices")
+print("Software Project Management")
+print("High Performance Computing")
+print("Environment and Sustainability")
+print("Career Skills for IT Companies")
+print("Marketing Strategies and Planning")
+print("Undergraduate Research")
+print("Seminar")
